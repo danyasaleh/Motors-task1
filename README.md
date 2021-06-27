@@ -2,6 +2,11 @@
 First task in IoT
 
 
+This task is to design a web page that contain 6 slides and 2 buttons. The values should be saved in the database to be used later.
+The range of the slider from 0 to 180
+
+
+
 
 ### 3 files used in this task 1 is HTML and 2 php. Also There is a picture of the database table :
 
