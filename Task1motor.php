@@ -11,10 +11,8 @@ $Motor6= $_POST["motor6"];
 $Turnon= $_POST["on"];
 
 
-// check if the Turn on button cliked ot not 
-// if it is not equal to 1 than it is off
-//if ($Turnon!= 1)
-   // $Turnon=0;
+
+
 
 
 
